@@ -1,2 +1,2 @@
 # sstable
-A pure python sstable implementation
+A pure python sstable implementation primarily meant for learning.
