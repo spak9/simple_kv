@@ -1,5 +1,6 @@
 """
-A simple implementation of a binary search tree just to get up to speed.
+A simple implementation of a binary search tree node and
+binary search tree operations just to get up to speed.
 """
 
 
